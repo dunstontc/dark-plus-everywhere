@@ -10,3 +10,7 @@
 ## Vim ##
   - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark)
     - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
+    - [I forked it and added some things.  Going to isolate my preferences from general additions and submit a pull request.](https://github.com/dunstontc/vim-code-dark)
+
+## Emacs ##
+ - [dunstontc/darkplus-emacs](https://github.com/dunstontc/darkplus-emacs)
